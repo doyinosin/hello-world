@@ -1,2 +1,2 @@
 # hello-world
-Hi,  I'm Doyin - Linux sys admin and Oracle DBA
+Hi,  I'm Doyin - Linux system administrator and Oracle DBA
